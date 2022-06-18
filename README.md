@@ -14,5 +14,5 @@ Maybe the list will be expanded.
 `npm install`
 4. Run script via command line (you must have node.js installed)
 `node index.mjs`
-3. Enter your auth token, chat id and desired delay
+3. Enter your auth token, chat id and desired delay  
 ![How](./whatistoken.png)
