@@ -5,7 +5,8 @@ Just take this bot and don't suffer.
 1. Set your own delay
 2. Bot will not die even if the submission fails
 3. You can run it on an unlimited number of account
-4. You can add/edit messages to the msg.txt file  
+4. You can add/edit messages to the msg.txt file
+5. Deletes messages after itself so you definitely won't get banned!
 Maybe the list will be expanded.
 ## Installation
 1. Clone this repository
